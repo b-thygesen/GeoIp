@@ -10,5 +10,7 @@ Run the solution with IIS Express.
 
 ## Endpoints
 The two endpoints available are:
+
 https://youraddress/geoip/IpApi/google.com 
+
 https://youraddress/geoip/IpStack/google.com
